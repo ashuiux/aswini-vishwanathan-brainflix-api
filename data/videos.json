@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1",
+      "title": "Amazing Mountain Adventure",
+      "description": "Join us on an incredible adventure through the breathtaking mountain ranges.",
+      "image": "/images/image0.jpg",
+      "channel": "Adventure Channel",
+      "views": "123,456",
+      "likes": "10,234",
+      "duration": "5:30",
+      "timestamp": 1633036800000,
+      "comments": [
+        {
+          "id": "101",
+          "name": "John Doe",
+          "comment": "Wow! What an adventure!",
+          "timestamp": 1633123200000
+        },
+        {
+          "id": "102",
+          "name": "Jane Smith",
+          "comment": "The views are absolutely stunning.",
+          "timestamp": 1633209600000
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "City Lights at Night",
+      "description": "Experience the mesmerizing city lights as they come to life after dark.",
+      "image": "/images/image1.jpg",
+      "channel": "Urban Explorer",
+      "views": "89,123",
+      "likes": "7,890",
+      "duration": "4:20",
+      "timestamp": 1632950400000,
+      "comments": [
+        {
+          "id": "103",
+          "name": "Mike Johnson",
+          "comment": "The city looks magical at night!",
+          "timestamp": 1633372800000
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Peaceful Beach Vibes",
+      "description": "Relax and unwind with the calming sounds of the ocean and stunning beach scenery.",
+      "image": "/images/image2.jpg",
+      "channel": "Tranquility TV",
+      "views": "200,678",
+      "likes": "15,342",
+      "duration": "3:45",
+      "timestamp": 1632864000000,
+      "comments": [
+        {
+          "id": "104",
+          "name": "Emily Davis",
+          "comment": "This video is so relaxing. I could watch it all day.",
+          "timestamp": 1633459200000
+        },
+        {
+          "id": "105",
+          "name": "Chris Lee",
+          "comment": "Perfect for unwinding after a long day!",
+          "timestamp": 1633545600000
+        }
+      ]
+    }
+  ]
+  
